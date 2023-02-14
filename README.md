@@ -52,6 +52,10 @@ Start the local development server
 
 You can now access the server at http://0.0.0.0:8000/
 
+### Entity Relationship Diagram
+![erd](https://user-images.githubusercontent.com/98402212/218795528-045e7beb-079c-4363-bf7e-15167f8dbbe0.jpg)
+
+
 ## Endpoints
 
 #### Auth controller
